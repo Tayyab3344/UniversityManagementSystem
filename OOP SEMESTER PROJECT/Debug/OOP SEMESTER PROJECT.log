@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\FAST-NUCES\SEMISTER 2\Subjects\Object Oriented Programming LAB-OOP LAB\OOP SEMESTER PROJECT\OOP SEMESTER PROJECT\OOP SEMESTER PROJECT\Source.cpp(58): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\FAST-NUCES\SEMISTER 2\Subjects\Object Oriented Programming LAB-OOP LAB\OOP SEMESTER PROJECT\OOP SEMESTER PROJECT\OOP SEMESTER PROJECT\Source.cpp(497): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  OOP SEMESTER PROJECT.vcxproj -> E:\FAST-NUCES\SEMISTER 2\Subjects\Object Oriented Programming LAB-OOP LAB\OOP SEMESTER PROJECT\OOP SEMESTER PROJECT\Debug\OOP SEMESTER PROJECT.exe
